@@ -1,0 +1,5 @@
+**cursor**
+
+``` css
+cursor: pointer
+```

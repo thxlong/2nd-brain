@@ -1,0 +1,1 @@
+Vietnamese mean: "Thuộc tính"

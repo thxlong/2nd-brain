@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "e3e9b28a5cd9bd37",
+    "type": "split",
+    "children": [
+      {
+        "id": "0597d47ed4bfade6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "TABLE OF CONTENT.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64fc7cc767ddb3b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c04f6cd406996bca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "072f1fe14d78ec4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c829f6273792f02",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Resolse-the-conflict",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "da61d216590bf89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0ae4176cd6b342a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c96521ab6037065",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TABLE OF CONTENT.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0597d47ed4bfade6",
+  "lastOpenFiles": [
+    "TABLE OF CONTENT.md",
+    "Ajax.md",
+    "Resolve issue/Resolve-the-conflict.md",
+    "Git cheatsheet/Commands of git.md",
+    "Pull latest.md",
+    "Get latested code.md",
+    "Git cheatsheet/Untitled.md",
+    "Table of Content.md",
+    "Resolse-the-conflict.md",
+    "Part-1.md"
+  ]
+}
