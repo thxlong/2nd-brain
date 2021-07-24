@@ -4,19 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "6b1dea7cc9eb4c8a",
+        "id": "63631c0455f44c2d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Kiến thức coding/Lập trình hướng đối tượng.md",
+            "mode": "source"
+          }
         }
       },
       {
-        "id": "44743fd80efcdc8e",
+        "id": "362f57070deb7115",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Kiến thức coding/Lập trình hướng đối tượng.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kiến thức coding/Lập trình hướng đối tượng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b1dea7cc9eb4c8a",
+  "active": "63631c0455f44c2d",
   "lastOpenFiles": [
+    "Kiến thức coding/Lập trình hướng đối tượng.md",
+    "README.md",
+    "Lập trình hướng đối tượng.md",
     "SQL Server/Lệnh INSERT trong SQL Server.md",
     "SQL Server/Untitled.md",
     "_TOC_.md",
     "Untitled.md",
     "Awesome Coder/Awesome Coder/TABLE OF CONTENT.md",
     "Awesome Coder/Awesome Coder/Ajax.md",
-    "Awesome Coder/Awesome Coder/Resolve issue/Resolve-the-conflict.md",
-    "Awesome Coder/Awesome Coder/Git cheatsheet/Commands of git.md",
-    "README.md",
-    "Obsidian_LongNguyen/CSS/height.md"
+    "Awesome Coder/Awesome Coder/Resolve issue/Resolve-the-conflict.md"
   ]
 }
