@@ -4,23 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "63631c0455f44c2d",
+        "id": "c871eee18fa88b97",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "ba5859aa57d69fce",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
+            "file": "Kiến thức coding/OOP/Lập trình hướng đối tượng.md",
             "mode": "preview"
           }
         }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Kiến thức coding/OOP/Lập trình hướng đối tượng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "63631c0455f44c2d",
+  "active": "c871eee18fa88b97",
   "lastOpenFiles": [
-    "README.md",
     "Kiến thức coding/Lập trình hướng đối tượng.md",
+    "Draft.md",
+    "interface.md",
+    "Draft/Draft.md",
+    "Untitled.md",
+    "README.md",
     "Lập trình hướng đối tượng.md",
     "SQL Server/Lệnh INSERT trong SQL Server.md",
     "SQL Server/Untitled.md",
-    "_TOC_.md",
-    "Untitled.md",
-    "Awesome Coder/Awesome Coder/TABLE OF CONTENT.md",
-    "Awesome Coder/Awesome Coder/Ajax.md",
-    "Awesome Coder/Awesome Coder/Resolve issue/Resolve-the-conflict.md"
+    "_TOC_.md"
   ]
 }
