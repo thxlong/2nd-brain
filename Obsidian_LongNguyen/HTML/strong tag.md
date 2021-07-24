@@ -1,1 +1,0 @@
-<strong>Bold-text</strong>

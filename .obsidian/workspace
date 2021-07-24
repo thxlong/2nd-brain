@@ -7,11 +7,16 @@
         "id": "6b1dea7cc9eb4c8a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "44743fd80efcdc8e",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +92,15 @@
   },
   "active": "6b1dea7cc9eb4c8a",
   "lastOpenFiles": [
-    "README.md",
-    "Obsidian_LongNguyen/CSS/height.md",
+    "SQL Server/Lệnh INSERT trong SQL Server.md",
+    "SQL Server/Untitled.md",
+    "_TOC_.md",
+    "Untitled.md",
+    "Awesome Coder/Awesome Coder/TABLE OF CONTENT.md",
+    "Awesome Coder/Awesome Coder/Ajax.md",
+    "Awesome Coder/Awesome Coder/Resolve issue/Resolve-the-conflict.md",
     "Awesome Coder/Awesome Coder/Git cheatsheet/Commands of git.md",
-    "Angular Get Started/Angular--/two-way-binding.png.md",
-    "Angular Get Started/Angular--/Two-way-binding.md",
-    "Angular Get Started/Angular--/One-way-binding.md",
-    "Angular Get Started/Angular--/Get started.md",
-    "Angular Get Started/Angular--/Databinding.md"
+    "README.md",
+    "Obsidian_LongNguyen/CSS/height.md"
   ]
 }

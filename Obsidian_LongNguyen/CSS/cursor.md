@@ -1,5 +1,0 @@
-**cursor**
-
-``` css
-cursor: pointer
-```

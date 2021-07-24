@@ -1,1 +1,0 @@
-Cũng chứa [[Method]] & [[Property or Attribute]]

@@ -1,4 +1,0 @@
-**Render in React**
-
-
-[[REACT]]
