@@ -30,4 +30,4 @@
 
 ---
 # Các loại phạm vi truy cập trong Lập trình hướng đối tượng 
-[[Các loại phạm vi truy cập trong Lập trình hướng đối tượng]]
+[[Các loại phạm vi truy cập trong Lập trình hướng đối tượng]]

@@ -197,10 +197,10 @@ Ví dụ:
 ## So sánh giữa Struct và Class
 Nhìn chung **struct** và **class** có khá nhiều điểm chung nhưng class có phần mạnh hơn. Hãy còn xem tại sao class lại mạnh hơn và mạnh hơn ở điểm nào nhé!
 
-Ngoài ra nếu 1 class là tham số truyền vào thì mọi thay đổi bên trong hàm sẽ tự động cập nhật ra bên ngoài cho dù không có từ khoá out hoặc ref (xem lại bài **[TỪ KHÓA REF VÀ OUT](https://www.howkteam.vn/redirect?Id=Y%2fHKZv6fbvNJnzXtx4Ic0rZRqPOVzQSxG20E6RGIOYH2ztT5H01j3ihV01MA5mugl7bUZBIzWzAiqzN1K7ZhvIw4YTth8fw46%2fYxn45Q7dBKvEjOm%2fkbMrTQgeNCkbYZ)**) còn struct thì không.
+Ngoài ra nếu 1 class là tham số truyền vào thì mọi thay đổi bên trong hàm sẽ tự động cập nhật ra bên ngoài cho dù không có từ khoá out hoặc ref (xem lại bài **[TỪ KHÓA REF VÀ OUT](https://www.howkteam.vn/Course/Khoa-hoc-lap-trinh-C-can-ban/Tu-khoa-ref-va-out-trong-C-96)**) còn struct thì không.
 
 ![[3_Class trong Lập trình hướng đối tượng_Howkteam_com.png]]
 
 ---
 ## Reference:
-[howkteam-lập trình OOP với C#](https://www.howkteam.vn/course/lap-trinh-oop-voi-c/class-trong-lap-trinh-huong-doi-tuong-1370)
+[Bài 2: Class | HowKteam](https://www.howkteam.vn/course/lap-trinh-oop-voi-c/class-trong-lap-trinh-huong-doi-tuong-1370)
