@@ -23,7 +23,7 @@ class <tên lớp>
 *Trong đó:*
 
 - <tên lớp> là tên do người dùng đặt và tuân theo quy tắc đặt tên đã trình bày trong bài BIẾN TRONG C#.
-- <Phạm vi truy cập> bao gồm các từ khoá như [[public]], [[protected]], [[private]], [[static]],...
+- <Phạm vi truy cập> bao gồm các từ khoá như [[public]], [[protected]], [[private]], [[Tĩnh (Static)]],...
 - <Các thành phần của lớp> bao gồm các biến, phương thức của lớp.
 
 Ví dụ:
