@@ -138,7 +138,7 @@ SV1.DiemLy = 8; // khi gán giá trị cho property thì các câu lệnh bên t
 Console.WriteLine(" Diem ly: " + SV1.DiemLy); // khi lấy giá trị của property thì các câu lệnh bên trong get sẽ được thực hiện.
 ````
 
-#### Lưu ý:
+Lưu ý:
 
 -   Người ta dùng **Property** thay cho phương thức truy vấn, phương thức cập nhật vì thế tên **property** thường phải làm gợi nhớ đến tên thuộc tính **private** bên trong lớp.
 -   Tuỳ theo nhu cầu và tính bảo mật mà người lập trình có thể ngăn không cho gán giá trị hoặc ngăn không cho lấy dữ liệu bằng cách bỏ đi từ khoá tương ứng.

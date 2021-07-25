@@ -22,6 +22,7 @@ For embeds, use `![[image.png|100x100]]`
 To have the image scale according to its aspect ratio, omit the height `![[image.png|100]]`
 
 ---
+### Push to git
 *Pay attendtion **push code** to git after amend.!*
 1. Run cmd
 2. Enter: ``cd E:\Projects\2nd-brain`` in command

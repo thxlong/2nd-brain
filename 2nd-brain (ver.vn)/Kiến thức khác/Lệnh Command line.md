@@ -1,4 +1,3 @@
-
 #### 1. Lệnh CD trong CMD
 -   **cd .** : Vẫn ở nguyên tại thư mục hiện tại.
 -   **cd ..** : Chuyển đến thư mục mẹ của thư mục hiện tại.
