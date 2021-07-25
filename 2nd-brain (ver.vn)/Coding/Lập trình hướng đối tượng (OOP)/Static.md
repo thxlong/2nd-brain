@@ -119,7 +119,7 @@ So luong meo hien tai: 2
 
 Trong đó:
 
--   **<phạm vi truy cập>** là các phạm vi đã trình bày trong bài [[Các loại phạm vi truy cập trong C Sharp]]
+-   **<phạm vi truy cập>** là các phạm vi đã trình bày trong bài [[Các loại phạm vi truy cập]]
 -   **static** là từ khoá để khai báo thành viên tĩnh.
 -   **<kiểu trả về>** là kiểu trả về của phương thức (đã được trình bày trong bài **[HÀM TRONG C#](https://www.howkteam.vn/redirect?Id=Y%2fHKZv6fbvNJnzXtx4Ic0lthogs3xmFNd%2fmA%2beIi3HpefwGKmQoUyVOvzTYLwXwPFagHBQLWvFb%2feOJ6eoualVCqox5kJrTVoIcHe3GhjUVq%2fXiBziny%2b%2bjN2MluidbV)**).
 -   **<tên phương thức>** là tên do người dùng đặt và tuân thủ các quy tắc đặt tên (các quy tắc đặt tên đã trình bày trong bài **[BIẾN TRONG C#](https://www.howkteam.vn/redirect?Id=Y%2fHKZv6fbvNJnzXtx4Ic0rZRqPOVzQSxG20E6RGIOYH2ztT5H01j3ihV01MA5mug%2bR%2bcFnD0tnOjAuot5NCLyX2%2bh18FBrP0ifRJe8Zg4Kc%3d)**).
@@ -180,7 +180,7 @@ Kết quả khi chạy chương trình trên:
 
 Trong đó:
 
--   **<phạm vi truy cập>** là các phạm vi đã trình bày trong bài **[[Các loại phạm vi truy cập trong C Sharp]]**.
+-   **<phạm vi truy cập>** là các phạm vi đã trình bày trong bài **[[Các loại phạm vi truy cập]]**.
 -   **static** là từ khoá để khai báo thành viên tĩnh.
 -   **class** là từ khoá để khai báo lớp.
 -   **<tên lớp>** là tên do người dùng đặt và tuân thủ các quy tắc đặt tên (các quy tắc đặt tên đã trình bày trong bài **[BIẾN TRONG C#](https://www.howkteam.vn/Course/Khoa-hoc-lap-trinh-C-can-ban/Bien-trong-C-52)**).

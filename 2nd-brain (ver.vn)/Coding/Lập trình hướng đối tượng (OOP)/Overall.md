@@ -31,7 +31,7 @@
 
 ---
 # 3. Các loại phạm vi truy cập trong Lập trình hướng đối tượng
-Tìm hiểu thêm: [[Các loại phạm vi truy cập trong C Sharp]]
+Tìm hiểu thêm: [[Các loại phạm vi truy cập]]
 
 ---
 # 4. Từ khóa Static trong Lập trình hướng đối tượng

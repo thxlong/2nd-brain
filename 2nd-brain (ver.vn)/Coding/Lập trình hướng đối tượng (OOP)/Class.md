@@ -1,13 +1,12 @@
-
 ## Class trong C# là gì?
 1. Class trong C# chính là cách thể hiện khái niệm về lớp trong lập trình hướng đối tượng.
 
 2. Một class trong C# có các thành phần như:
 
-	+   Thuộc tính: là các thành phần dữ liệu hay còn gọi là các biến.
-	+   Phương thức: là các hàm thành phần thể hiện các hành vi của một đối tượng thuộc lớp.
-	+   Phương thức khởi tạo.
-	+   Phương thức huỷ bỏ.
+	+  Thuộc tính: là các thành phần dữ liệu hay còn gọi là các biến.
+	+  Phương thức: là các hàm thành phần thể hiện các hành vi của một đối tượng thuộc lớp.
+	+  Phương thức khởi tạo.
+	+  Phương thức huỷ bỏ.
 
 3. Class trong C# thực chất là một kiểu dữ liệu mới do người dùng tự định nghĩa.
 ## Khai báo, khởi tạo và sử dụng class trong C#
@@ -180,11 +179,11 @@ Height: 30 Weight: 1200
 
 #### Đặc điểm
 
--   Có tên trùng với tên lớp nhưng để phân biệt với constructor thì ta thêm dấu “**~**” vào trước tên lớp.
--   Không có kiểu trả về.
--   Được tự động gọi khi 1 đối tượng thuộc lớp kết thúc “vòng đời” của nó thông qua bộ thu dọn rác tự động GC (Garbage Collection).
--   Nếu bạn không khai báo destructor thì C# sẽ tự động tạo ra 1 destructor mặc định và không có nội dung gì.
--   Chỉ có 1 destructor duy nhất trong 1 lớp.
+-  Có tên trùng với tên lớp nhưng để phân biệt với constructor thì ta thêm dấu “**~**” vào trước tên lớp.
+- Không có kiểu trả về.
+- Được tự động gọi khi 1 đối tượng thuộc lớp kết thúc “vòng đời” của nó thông qua bộ thu dọn rác tự động GC (Garbage Collection).
+- Nếu bạn không khai báo destructor thì C# sẽ tự động tạo ra 1 destructor mặc định và không có nội dung gì.
+- Chỉ có 1 destructor duy nhất trong 1 lớp.
 
 Ví dụ:
 ````cs
