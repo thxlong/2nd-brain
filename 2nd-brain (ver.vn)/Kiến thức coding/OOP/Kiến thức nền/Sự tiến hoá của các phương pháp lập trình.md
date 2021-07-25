@@ -13,7 +13,7 @@
 
 ## 3. Lập trình hướng đối tượng
 - Lập trình hướng đối tượng là phương pháp lấy đối tượng làm nền tảng để xây dựng chương trình [[Lập trình hướng đối tượng]]
-- Một định nghĩa khác về lập trình hướng đối tượng đó là phương pháp lập trình dựa trên kiến trúc lớp ([[class]]), đối tượng ([[object]])
+- Một định nghĩa khác về lập trình hướng đối tượng đó là phương pháp lập trình dựa trên kiến trúc lớp ([[Class]]), đối tượng ([[object]])
 
 ---
 
