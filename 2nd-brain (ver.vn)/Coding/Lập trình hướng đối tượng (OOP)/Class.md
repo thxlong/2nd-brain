@@ -199,7 +199,7 @@ Nhìn chung **struct** và **class** có khá nhiều điểm chung nhưng class
 
 Ngoài ra nếu 1 class là tham số truyền vào thì mọi thay đổi bên trong hàm sẽ tự động cập nhật ra bên ngoài cho dù không có từ khoá out hoặc ref (xem lại bài **[TỪ KHÓA REF VÀ OUT](https://www.howkteam.vn/Course/Khoa-hoc-lap-trinh-C-can-ban/Tu-khoa-ref-va-out-trong-C-96)**) còn struct thì không.
 
-![[3_Class trong Lập trình hướng đối tượng_Howkteam_com.png]]
+![Class trong Lập trình hướng đối tượng](https://f.howkteam.vn/Upload/cke/images/2_IMAGE%20TUTORIAL/1_C%23_AutoC%23/4_C%23%20H%C6%B0%E1%BB%9Bng%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20(OOP)/B02_Class%20trong%20L%C3%A2%CC%A3p%20tri%CC%80nh%20OOP/3_Class%20trong%20L%C3%A2%CC%A3p%20tri%CC%80nh%20h%C6%B0%C6%A1%CC%81ng%20%C4%91%C3%B4%CC%81i%20t%C6%B0%C6%A1%CC%A3ng_Howkteam_com.png)
 
 ---
 ## Reference:
