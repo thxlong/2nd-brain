@@ -28,4 +28,6 @@
 # Tính đa hình
 - Là hiện tượng các đối tượng thuộc các lớp khác nhau có thể hiểu cùng một thông điệp theo các cách khác nhau.. [[Tính đa hình]]
 
-
+---
+# Các loại phạm vi truy cập trong Lập trình hướng đối tượng 
+[[Các loại phạm vi truy cập trong Lập trình hướng đối tượng]]
