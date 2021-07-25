@@ -1,6 +1,6 @@
 ## Các loại phạm vi truy cập và ý nghĩa
 **Phạm vi truy cập** là cách mà người lập trình quy định về quyền được truy xuất đến các thành phần của lớp.
-Trong C# có 5 loại phạm vi truy cập:
+Trong C# có 5 loại phạm vi truy cập: public, private, protected, internal, protected internal.
 
 ![Các loại phạm vi truy cập trong Lập trình hướng đối tượng](https://f.howkteam.vn/Upload/cke/images/2_IMAGE%20TUTORIAL/1_C%23_AutoC%23/4_C%23%20H%C6%B0%E1%BB%9Bng%20%C4%91%E1%BB%91i%20t%C6%B0%E1%BB%A3ng%20(OOP)/B03_Ca%CC%81c%20loa%CC%A3i%20pha%CC%A3m%20vi%20truy%20c%C3%A2%CC%A3p%20L%C3%A2%CC%A3p%20tri%CC%80nh%20OOP/1_Ca%CC%81c%20loa%CC%A3i%20pha%CC%A3m%20vi%20truy%20c%C3%A2%CC%A3p%20trong%20L%C3%A2%CC%A3p%20tri%CC%80nh%20h%C6%B0%C6%A1%CC%81ng%20%C4%91%C3%B4%CC%81i%20t%C6%B0%C6%A1%CC%A3ng_Howkteam_com.png)
 
@@ -140,7 +140,6 @@ Console.WriteLine(" Diem ly: " + SV1.DiemLy); // khi lấy giá trị của prop
 ````
 
 Lưu ý:
-
 -   Người ta dùng **Property** thay cho phương thức truy vấn, phương thức cập nhật vì thế tên **property** thường phải làm gợi nhớ đến tên thuộc tính **private** bên trong lớp.
 -   Tuỳ theo nhu cầu và tính bảo mật mà người lập trình có thể ngăn không cho gán giá trị hoặc ngăn không cho lấy dữ liệu bằng cách bỏ đi từ khoá tương ứng.
 
