@@ -7,7 +7,7 @@ Sử dụng những thuộc tính:
 -  binding
 -  ngClass
 
-home.component.ts
+*home.component.ts*
 ````ts
 import { Component, OnInit, VERSION } from '@angular/core';
 @Component({
@@ -39,7 +39,7 @@ export class HomeComponent implements OnInit {
 }
 ````
 
-home.component.html
+*home.component.html*
 ````html
 <h1>{{title}}</h1>
 <br/>
@@ -59,7 +59,8 @@ home.component.html
  <p>Built in {{boat.year}}</p>
 </div>
 ````
-home.component.scss
+
+*home.component.scss*
 ````scss
 .green{
 color: green
