@@ -1,6 +1,6 @@
-Ta có `data-driven-form.component.ts`, `app.module.ts`
+Ta có `data-driven-form.component.ts`, `data-driven-form.component.html`, `app.module.ts`
 
-- Import `FeactiveForm` vào `app.module.ts`
+- Import `ReactiveForm` vào `app.module.ts`
 
 *app.module.ts*
 ````ts
@@ -16,6 +16,17 @@ import { FormBuilder, FormGroup } from '@angular/forms';
  constructor(private _formBuilder: FormBuilder) {}
 ````
 
+- `Inject` constructor
+
+````ts
+ constructor(private _formBuilder: FormBuilder){}
+````
+
+- tạo một tham số cho FromGroup
+
+````ts
+public frmUser : FormGroup | any;
+````
 - ValueChanges - sử dụng `subscribe` để trong input để bắt sự kiện change
 
 *data-driven-form.component.ts*
@@ -24,7 +35,6 @@ import { FormBuilder, FormGroup } from '@angular/forms';
     console.log(data);
  });
 ````
-
 
 - Validition Email 
 
@@ -43,6 +53,28 @@ Cách 2: sử dụng thông qua `Validators.pattern`
  email: ['', [Validators.required, Validators.pattern('[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$')]],
 ````
 thuộc tính trong FormGroup: `frmUser.controls.email.errors?.pattern`
+
+- Sau đó ta tạo một function createFrom(), trong đó gán `frmUser` = `_formBuilder.group`
+- Tạo function `onSubmit` cho button submitForm
+
+````ts
+createForm(): void {
+ this.frmUser = this._formBuilder.group({
+ })
+}
+
+ onSubmit() {
+ console.log(this.frmUser);
+ }
+````
+
+- tạo một thẻ `<form>` và tạo các input field cho nó
+- gắn `[FormGroup]` vào `form`
+- Truyền `formControlName` được tạo tại function `createForm` bên file `.ts` vào thẻ `input`
+- gắn `ngsubmit="onSubmit()` để ngăn reload form
+
+````html
+````
 
 ==Cách xem những tham số của From Group==
 ````ts
