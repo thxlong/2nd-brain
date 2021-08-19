@@ -1,5 +1,7 @@
+## Precondition
 Ta có `data-driven-form.component.ts`, `data-driven-form.component.html`, `app.module.ts`
 
+## Step implement 
 - Import `ReactiveForm` vào `app.module.ts`
 
 *app.module.ts*
@@ -83,5 +85,5 @@ console.log(this.frmUser)
 
 
 # Referrence code
-- [Github: Reactive-forms](https://github.com/thxlong/Reactive-Forms/tree/master/reactive-form/src/app/data-driven-form)
-- [Video: # 48. Forms : Reactive Forms](https://www.youtube.com/watch?v=ayhqLoK90J0&list=PLJ5qtRQovuENHYHqlQP5XT7zwbCA5Q5He&index=48&ab_channel=nghiepuit)
+- [My demo Github: Reactive-forms](https://github.com/thxlong/Reactive-Forms/tree/master/reactive-form/src/app/data-driven-form)
+- [NghiepUIT - Video:# 48. Forms : Reactive Forms](https://www.youtube.com/watch?v=ayhqLoK90J0&list=PLJ5qtRQovuENHYHqlQP5XT7zwbCA5Q5He&index=48&ab_channel=nghiepuit)
