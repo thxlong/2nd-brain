@@ -35,7 +35,7 @@ right: 0;
 
 ### Khi muốn 1 khối trong block có chiều dài phủ từ trên xuống dưới, ta sử dụng:
 - `top: 0`
-- `right: 0`
+- `bottom: 0`
 
 ````scss
 .wrapper{
