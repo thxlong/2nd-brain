@@ -21,4 +21,3 @@ ng new client --style scss --routing
 Những cài đặt này sẽ được lưu vào file `angular.json`
 ![[your-config-in-angular-json.gif]]
 
-Sau khi 
