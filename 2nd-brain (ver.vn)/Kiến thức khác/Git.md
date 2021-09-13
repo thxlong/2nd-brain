@@ -1,6 +1,6 @@
 ### Stash
 
-ou can create stash as patch file from one machine,then can share that patch file to another machines.
+You can create stash as patch file from one machine,then can share that patch file to another machines.
 
 **Creating the stash as a patch**
 

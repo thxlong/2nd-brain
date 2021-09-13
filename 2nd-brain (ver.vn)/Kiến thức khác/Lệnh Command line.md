@@ -12,5 +12,5 @@ Chức năng của câu lệnh MD là giúp bạn tạo một thư mục mới n
 
 Ví dụ: 
 ````md
-MD "D:\New Folder" // - tạo mới thư mục thegioididong lưu trong ổ D.
+MD "D:\New Folder" // - tạo mới thư mục thxlong lưu trong ổ D.
 ````
