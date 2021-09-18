@@ -1,4 +1,12 @@
 First Header | Second Header
 ------------ | ------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+`\'` | single quote
+`\"` | double quote
+`\\` | backslash
+`\n` | new line
+`\r` | carriage return
+`\t` | tab
+`\b` | backspace
+`\f` | form feed
+`\v` | vertical tab
+
