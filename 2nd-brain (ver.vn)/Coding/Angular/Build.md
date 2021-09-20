@@ -1,0 +1,1 @@
+Build AOT: `ng build --prod --aot=true`
