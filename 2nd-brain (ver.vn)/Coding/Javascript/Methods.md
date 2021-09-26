@@ -219,5 +219,7 @@ reduce((previousValue, currentValue, currentIndex) => { ... } )
 reduce((previousValue, currentValue, currentIndex, array) => { ... } )
 reduce((previousValue, currentValue, currentIndex, array) => { ... }, initialValue)
 
+---
+## Manipulating Arrays
 
-
+![Manipulating Arrays](https://scontent.fsgn5-7.fna.fbcdn.net/v/t1.6435-9/242549794_198089162413622_9047670244519327349_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=8bfeb9&_nc_ohc=Fmz4BrE2okAAX8kPHDr&_nc_ht=scontent.fsgn5-7.fna&oh=6099478e7a56b23c63458345185e7791&oe=6173951F)
