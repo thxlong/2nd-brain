@@ -21,3 +21,14 @@ ng new client --style scss --routing
 Những cài đặt này sẽ được lưu vào file `angular.json`
 ![[your-config-in-angular-json.gif]]
 
+### Architecture Overview
+The architecture diagram indentifies the eight main building blocks of an Angular application:
+- Modules
+- Components
+- Templates
+- Metadata
+- Data binding
+- Directive
+- Service
+- Dependency Injection
+
