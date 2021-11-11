@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Kiến thức khác/SSH Key (Public-Private).md",
+            "file": "2nd-brain (ver.vn)/Coding/HTML-CSS/CSS Selectors.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Kiến thức khác/SSH Key (Public-Private).md",
+            "file": "2nd-brain (ver.vn)/Coding/HTML-CSS/CSS Selectors.md",
             "mode": "preview"
           }
         },
@@ -63,13 +63,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "df42f123591f594b",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd-brain (ver.vn)/Kiến thức khác/SSH Key (Public-Private).md",
+                "file": "2nd-brain (ver.vn)/Coding/HTML-CSS/CSS Selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +103,15 @@
   },
   "active": "6b1dea7cc9eb4c8a",
   "lastOpenFiles": [
+    "2nd-brain (ver.vn)/Coding/HTML-CSS/CSS Selectors.md",
+    "2nd-brain (ver.vn)/Coding/HTML-CSS/Tips CSS.md",
+    "2nd-brain (ver.vn)/Coding/HTML-CSS/Cách đặt biến trong CSS.md",
+    "2nd-brain (ver.vn)/Coding/HTML-CSS/Tips HTML.md",
+    "2nd-brain (ver.vn)/Coding/Javascript/Async-Await.md",
     "2nd-brain (ver.vn)/Kiến thức khác/SSH Key (Public-Private).md",
     "2nd-brain (ver.vn)/Coding/Angular/Getting Started.md",
     "2nd-brain (ver.vn)/Coding/Angular/Life Cycle trong Angular.md",
     "2nd-brain (ver.vn)/Coding/Angular/Build.md",
-    "2nd-brain (ver.vn)/Coding/Javascript/Methods.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Untitled.md",
-    "2nd-brain (ver.vn)/Kiến thức khác/Lệnh Command line.md",
-    "2nd-brain (ver.vn)/Kiến thức khác/HTTP status code.md",
-    "2nd-brain (ver.vn)/Kiến thức khác/Git.md",
-    "2nd-brain (ver.vn)/Kiến thức khác/Escape character.md"
+    "2nd-brain (ver.vn)/Coding/Javascript/Methods.md"
   ]
 }
