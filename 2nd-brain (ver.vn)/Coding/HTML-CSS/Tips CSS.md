@@ -26,7 +26,7 @@ position: relative;
 
 }
 .boxed{
-position: absolute
+position: absolute;
 left: 0;
 right: 0;
 }

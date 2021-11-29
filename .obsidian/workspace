@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Coding/Angular/Single source of truth.md",
-            "mode": "source"
+            "file": "2nd-brain (ver.vn)/Coding/Javascript/Loops.md",
+            "mode": "preview"
           }
         },
         "group": "9bb515cd428fdc92"
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Coding/Angular/Single source of truth.md",
+            "file": "2nd-brain (ver.vn)/Coding/Javascript/Loops.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd-brain (ver.vn)/Coding/Angular/Single source of truth.md",
+                "file": "2nd-brain (ver.vn)/Coding/Javascript/Loops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b1dea7cc9eb4c8a",
+  "active": "3584513455e263bc",
   "lastOpenFiles": [
+    "2nd-brain (ver.vn)/Coding/Javascript/Loops.md",
+    "2nd-brain (ver.vn)/Coding/Javascript/Callback.md",
+    "2nd-brain (ver.vn)/Coding/Javascript/Async-Await.md",
+    "2nd-brain (ver.vn)/Coding/Javascript/Async.md",
+    "2nd-brain (ver.vn)/Coding/Javascript/Methods.md",
+    "2nd-brain (ver.vn)/Coding/Javascript/Promise.md",
+    "2nd-brain (ver.vn)/Coding/HTML-CSS/Tips CSS.md",
     "2nd-brain (ver.vn)/Coding/Angular/Single source of truth.md",
     "2nd-brain (ver.vn)/Coding/Angular/Template Reference Variables.md",
-    "2nd-brain (ver.vn)/Coding/HTML-CSS/CSS Selectors.md",
-    "2nd-brain (ver.vn)/Coding/HTML-CSS/Tips CSS.md",
-    "2nd-brain (ver.vn)/Coding/HTML-CSS/Cách đặt biến trong CSS.md",
-    "2nd-brain (ver.vn)/Coding/HTML-CSS/Tips HTML.md",
-    "2nd-brain (ver.vn)/Coding/Javascript/Async-Await.md",
-    "2nd-brain (ver.vn)/Kiến thức khác/SSH Key (Public-Private).md",
-    "2nd-brain (ver.vn)/Coding/Angular/Getting Started.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Life Cycle trong Angular.md"
+    "2nd-brain (ver.vn)/Coding/HTML-CSS/CSS Selectors.md"
   ]
 }
