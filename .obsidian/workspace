@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Coding/Javascript/Loops.md",
+            "file": "2nd-brain (ver.vn)/Kiến thức khác/Escape character.md",
             "mode": "preview"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Coding/Javascript/Loops.md",
+            "file": "2nd-brain (ver.vn)/Kiến thức khác/Escape character.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd-brain (ver.vn)/Coding/Javascript/Loops.md",
+                "file": "2nd-brain (ver.vn)/Kiến thức khác/Escape character.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3584513455e263bc",
+  "active": "6b1dea7cc9eb4c8a",
   "lastOpenFiles": [
+    "2nd-brain (ver.vn)/Kiến thức khác/Escape character.md",
     "2nd-brain (ver.vn)/Coding/Javascript/Loops.md",
     "2nd-brain (ver.vn)/Coding/Javascript/Callback.md",
     "2nd-brain (ver.vn)/Coding/Javascript/Async-Await.md",
@@ -111,7 +112,6 @@
     "2nd-brain (ver.vn)/Coding/Javascript/Promise.md",
     "2nd-brain (ver.vn)/Coding/HTML-CSS/Tips CSS.md",
     "2nd-brain (ver.vn)/Coding/Angular/Single source of truth.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Template Reference Variables.md",
-    "2nd-brain (ver.vn)/Coding/HTML-CSS/CSS Selectors.md"
+    "2nd-brain (ver.vn)/Coding/Angular/Template Reference Variables.md"
   ]
 }
