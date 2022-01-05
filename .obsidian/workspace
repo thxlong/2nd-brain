@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Kiến thức khác/Escape character.md",
-            "mode": "preview"
+            "file": "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md",
+            "mode": "source"
           }
         },
         "group": "9bb515cd428fdc92"
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Kiến thức khác/Escape character.md",
-            "mode": "preview"
+            "file": "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md",
+            "mode": "source"
           }
         },
         "group": "9bb515cd428fdc92"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd-brain (ver.vn)/Kiến thức khác/Escape character.md",
+                "file": "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "6b1dea7cc9eb4c8a",
   "lastOpenFiles": [
-    "2nd-brain (ver.vn)/Kiến thức khác/Escape character.md",
-    "2nd-brain (ver.vn)/Coding/Javascript/Loops.md",
-    "2nd-brain (ver.vn)/Coding/Javascript/Callback.md",
-    "2nd-brain (ver.vn)/Coding/Javascript/Async-Await.md",
-    "2nd-brain (ver.vn)/Coding/Javascript/Async.md",
-    "2nd-brain (ver.vn)/Coding/Javascript/Methods.md",
-    "2nd-brain (ver.vn)/Coding/Javascript/Promise.md",
-    "2nd-brain (ver.vn)/Coding/HTML-CSS/Tips CSS.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Single source of truth.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Template Reference Variables.md"
+    "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md",
+    "2nd-brain (ver.vn)/Coding/Angular/The basics.md",
+    "2nd-brain (ver.vn)/Coding/Angular/Way import bootstrap to Angular.md",
+    "Images/life-cycle-in-angular.png",
+    "Images/pipe-what-is-it.png",
+    "Images/your-config-in-angular-json.gif",
+    "2nd-brain (ver.vn)/Coding/Angular/Life Cycle trong Angular.md",
+    "2nd-brain (ver.vn)/Coding/Angular/Getting Started.md",
+    "2nd-brain (ver.vn)/Coding/Angular/Build.md",
+    "2nd-brain (ver.vn)/Coding/HTML-CSS/Tips CSS.md"
   ]
 }
