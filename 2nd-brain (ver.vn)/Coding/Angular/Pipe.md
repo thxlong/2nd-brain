@@ -4,8 +4,7 @@
 
 Pipe được dùng để chuyển đổi dữ liệu mà bạn hiển thị lên template cho người dùng có thể hiểu được.
 Ví dụ: định dạng ngày tháng cho kiểu Date, viết hoa các chữ cái đầu tiên của tên riêng như tên người, tên thành phố, etc.
-Pipe nhận một đầu vào và cho kết quả ở đầu ra, giống hình minh họa sau:
-![[pipe-what-is-it.png|500x300]]
+Pipe nhận một đầu vào và cho kết quả ở đầu ra
 
 Angular cung cấp cho chúng ta các Pipes sau đây (những Pipes là Stable):
 

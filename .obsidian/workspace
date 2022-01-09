@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md",
+            "file": "2nd-brain (ver.vn)/Coding/Mô hình 3 lớp (3 Layers).md",
             "mode": "source"
           }
         },
@@ -23,8 +23,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md",
-            "mode": "source"
+            "file": "2nd-brain (ver.vn)/Coding/Mô hình 3 lớp (3 Layers).md",
+            "mode": "preview"
           }
         },
         "group": "9bb515cd428fdc92"
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md",
+                "file": "2nd-brain (ver.vn)/Coding/Mô hình 3 lớp (3 Layers).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b1dea7cc9eb4c8a",
+  "active": "3584513455e263bc",
   "lastOpenFiles": [
-    "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md",
-    "2nd-brain (ver.vn)/Coding/Angular/The basics.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Way import bootstrap to Angular.md",
-    "Images/life-cycle-in-angular.png",
-    "Images/pipe-what-is-it.png",
-    "Images/your-config-in-angular-json.gif",
+    "2nd-brain (ver.vn)/Coding/Mô hình 3 lớp (3 Layers).md",
+    "Images/3-layers 1.png",
     "2nd-brain (ver.vn)/Coding/Angular/Life Cycle trong Angular.md",
+    "Images/life-cycle-in-angular.png",
+    "2nd-brain (ver.vn)/Coding/Angular/Pipe.md",
+    "2nd-brain (ver.vn)/Coding/Angular/Reactive form.md",
+    "2nd-brain (ver.vn)/Coding/Angular/Route.md",
+    "2nd-brain (ver.vn)/Coding/Angular/Single source of truth.md",
     "2nd-brain (ver.vn)/Coding/Angular/Getting Started.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Build.md",
-    "2nd-brain (ver.vn)/Coding/HTML-CSS/Tips CSS.md"
+    "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md"
   ]
 }
