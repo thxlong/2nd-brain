@@ -1,6 +1,6 @@
 1. Tạo 1 service `EventEmitter` để giao tiếp giữa 2 components
 
-*common.service.ts
+common.service.ts
 ````ts
 export class CommonService {
 

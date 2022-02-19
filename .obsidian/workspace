@@ -6,28 +6,26 @@
       {
         "id": "6b1dea7cc9eb4c8a",
         "type": "leaf",
-        "dimension": 47.31182795698925,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Coding/Mô hình 3 lớp (3 Layers).md",
+            "file": "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/2. Data binding.md",
             "mode": "source"
           }
         },
-        "group": "9bb515cd428fdc92"
+        "group": "c8c649ce55711491"
       },
       {
-        "id": "3584513455e263bc",
+        "id": "1a3bff9639a94d7a",
         "type": "leaf",
-        "dimension": 52.68817204301075,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Coding/Mô hình 3 lớp (3 Layers).md",
+            "file": "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/2. Data binding.md",
             "mode": "preview"
           }
         },
-        "group": "9bb515cd428fdc92"
+        "group": "c8c649ce55711491"
       }
     ],
     "direction": "vertical"
@@ -67,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 523
   },
   "right": {
     "id": "df42f123591f594b",
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd-brain (ver.vn)/Coding/Mô hình 3 lớp (3 Layers).md",
+                "file": "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/2. Data binding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3584513455e263bc",
+  "active": "1a3bff9639a94d7a",
   "lastOpenFiles": [
-    "2nd-brain (ver.vn)/Coding/Mô hình 3 lớp (3 Layers).md",
-    "Images/3-layers 1.png",
+    "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/2. Data binding.md",
     "2nd-brain (ver.vn)/Coding/Angular/Life Cycle trong Angular.md",
-    "Images/life-cycle-in-angular.png",
-    "2nd-brain (ver.vn)/Coding/Angular/Pipe.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Reactive form.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Route.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Single source of truth.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Getting Started.md",
-    "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md"
+    "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/1. How an Angular App gets Loaded and Started.md",
+    "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md",
+    "2nd-brain (ver.vn)/Coding/Angular/Build.md",
+    "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/Components are Important.md",
+    "How an Angular App gets Loaded and Started.png",
+    "How an Angular App gets Loaded and Started.png",
+    "2nd-brain (ver.vn)/Master Angular follow Roadmap/1. Learn TypeScript Basics/What is TypeScript.md",
+    "2nd-brain (ver.vn)/Coding/Javascript/Loops.md"
   ]
 }
