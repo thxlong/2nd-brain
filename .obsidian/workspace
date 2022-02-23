@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6b1dea7cc9eb4c8a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/2. Data binding.md",
-            "mode": "source"
-          }
-        },
-        "group": "c8c649ce55711491"
-      },
-      {
         "id": "1a3bff9639a94d7a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/2. Data binding.md",
+            "file": "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/3. Directives.md",
+            "mode": "source"
+          }
+        },
+        "group": "27ced4f214c174ad"
+      },
+      {
+        "id": "42acc3380f1c1979",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/3. Directives.md",
             "mode": "preview"
           }
         },
-        "group": "c8c649ce55711491"
+        "group": "27ced4f214c174ad"
       }
     ],
     "direction": "vertical"
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523
+    "width": 338
   },
   "right": {
     "id": "df42f123591f594b",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/2. Data binding.md",
+                "file": "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/3. Directives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "1a3bff9639a94d7a",
   "lastOpenFiles": [
-    "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/2. Data binding.md",
+    "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/3. Directives.md",
+    "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/4. Components & Data binding.md",
     "2nd-brain (ver.vn)/Coding/Angular/Life Cycle trong Angular.md",
-    "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/1. How an Angular App gets Loaded and Started.md",
-    "2nd-brain (ver.vn)/Coding/Angular/EventEmitter.md",
-    "2nd-brain (ver.vn)/Coding/Angular/Build.md",
-    "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/Components are Important.md",
-    "How an Angular App gets Loaded and Started.png",
-    "How an Angular App gets Loaded and Started.png",
-    "2nd-brain (ver.vn)/Master Angular follow Roadmap/1. Learn TypeScript Basics/What is TypeScript.md",
-    "2nd-brain (ver.vn)/Coding/Javascript/Loops.md"
+    "README.md",
+    "Images/Databind.jpg",
+    "Images/How an Angular App gets Loaded and Started.png",
+    "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/2. Data binding.md",
+    "2nd-brain (ver.vn)/Coding/Angular/Understand the difference between the notation with and without brackets in general.md",
+    "2nd-brain (ver.vn)/Coding/Angular/Getting Started.md",
+    "2nd-brain (ver.vn)/Master Angular follow Roadmap/3. Angular Bacsics/1. How an Angular App gets Loaded and Started.md"
   ]
 }
